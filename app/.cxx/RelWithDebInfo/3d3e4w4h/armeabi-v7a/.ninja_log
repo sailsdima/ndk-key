@@ -1,0 +1,7 @@
+# ninja log v5
+1178	1500	1696932333795309435	../../../../build/intermediates/cxx/RelWithDebInfo/3d3e4w4h/obj/armeabi-v7a/libmycppmodule.so	106bfcd3522c9a61
+1	1176	1696932333483535241	CMakeFiles/mycppmodule.dir/src/main/jni/ndk_key.cpp.o	74db8cdf08b66f28
+0	102	1699213697227760564	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	d92162ac89399559
+103	276	1699213697397535668	../../../../build/intermediates/cxx/RelWithDebInfo/3d3e4w4h/obj/armeabi-v7a/libmycppmodule.so	2967ae4e85582522
+1	476	1699214310614871124	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	d92162ac89399559
+498	646	1699214310776635034	../../../../build/intermediates/cxx/RelWithDebInfo/3d3e4w4h/obj/armeabi-v7a/libmycppmodule.so	2967ae4e85582522

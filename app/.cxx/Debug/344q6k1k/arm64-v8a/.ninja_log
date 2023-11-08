@@ -1,0 +1,25 @@
+# ninja log v5
+1076	1318	1698604301919950135	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	bae141cf09c6b571
+2	1076	1698604301671571448	CMakeFiles/mycppmodule.dir/src/main/jni/ndk_key.cpp.o	fbdb7519be958c0e
+0	2260	1699211427923821276	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+2261	2682	1699211428349189046	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+4	1537	1699211522622883867	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+1538	1841	1699211522939028515	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+2	784	1699211551948172539	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+784	895	1699211552063507811	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+2	1207	1699212058460537732	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+1207	1549	1699212058809402308	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+2	1056	1699212091273094429	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+1057	1331	1699212091555421942	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+2	1023	1699212269623189434	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+1023	1304	1699212269910114294	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+2	836	1699212297025214031	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+836	1085	1699212297279956427	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+3	390	1699212379710008077	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+390	763	1699212380084163760	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+1	565	1699212542439612736	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+565	910	1699212542789786418	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+0	4545	1699218787760606860	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+4546	4905	1699218788112534990	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770
+3	2471	1699377319838765944	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	7a4fb37554b97efa
+2472	2946	1699377320297789268	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/arm64-v8a/libmycppmodule.so	a7c754f827e26770

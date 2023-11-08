@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dmytro.petrenko/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/.cxx/Debug/344q6k1k/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dmytro.petrenko/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/.cxx/Debug/344q6k1k/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mycppmodule::@6890427a1f51a3e7e1df": {
+      "artifactName": "mycppmodule",
+      "abi": "armeabi-v7a",
+      "output": "/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/build/intermediates/cxx/Debug/344q6k1k/obj/armeabi-v7a/libmycppmodule.so",
+      "runtimeFiles": []
+    }
+  }
+}

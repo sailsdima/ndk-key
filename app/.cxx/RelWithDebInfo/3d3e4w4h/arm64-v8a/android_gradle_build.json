@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dmytro.petrenko/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/.cxx/RelWithDebInfo/3d3e4w4h/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dmytro.petrenko/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/.cxx/RelWithDebInfo/3d3e4w4h/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mycppmodule::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "mycppmodule",
+      "output": "/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/build/intermediates/cxx/RelWithDebInfo/3d3e4w4h/obj/arm64-v8a/libmycppmodule.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/dmytro.petrenko/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/dmytro.petrenko/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

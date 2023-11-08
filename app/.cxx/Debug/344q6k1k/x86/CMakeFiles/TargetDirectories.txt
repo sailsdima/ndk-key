@@ -1,0 +1,3 @@
+/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/.cxx/Debug/344q6k1k/x86/CMakeFiles/mycppmodule.dir
+/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/.cxx/Debug/344q6k1k/x86/CMakeFiles/edit_cache.dir
+/Users/dmytro.petrenko/AndroidStudioProjects/NKDKey/app/.cxx/Debug/344q6k1k/x86/CMakeFiles/rebuild_cache.dir

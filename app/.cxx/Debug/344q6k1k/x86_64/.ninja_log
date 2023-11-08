@@ -1,0 +1,5 @@
+# ninja log v5
+486	679	1698596150810874084	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/x86_64/libmycppmodule.so	61379196b927946f
+1	486	1698596150634300139	CMakeFiles/mycppmodule.dir/src/main/jni/ndk_key.cpp.o	1327f1adcc86b3b2
+0	61	1699212788719991503	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	c7bbe8ed0eb23862
+61	189	1699212788846803767	../../../../build/intermediates/cxx/Debug/344q6k1k/obj/x86_64/libmycppmodule.so	36d3cb0feb511f7b

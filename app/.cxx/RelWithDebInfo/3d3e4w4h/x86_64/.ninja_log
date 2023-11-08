@@ -1,0 +1,7 @@
+# ninja log v5
+853	1046	1696932339976236395	../../../../build/intermediates/cxx/RelWithDebInfo/3d3e4w4h/obj/x86_64/libmycppmodule.so	929de8b26f760ecf
+0	852	1696932339806503983	CMakeFiles/mycppmodule.dir/src/main/jni/ndk_key.cpp.o	4c04a5353cc29591
+0	89	1699213698238282890	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	e24cea7a6296bbe0
+89	273	1699213698418377875	../../../../build/intermediates/cxx/RelWithDebInfo/3d3e4w4h/obj/x86_64/libmycppmodule.so	bf41dce97245aefb
+1	534	1699214312444667714	CMakeFiles/mycppmodule.dir/src/main/jni/example.cpp.o	e24cea7a6296bbe0
+534	660	1699214312555372524	../../../../build/intermediates/cxx/RelWithDebInfo/3d3e4w4h/obj/x86_64/libmycppmodule.so	bf41dce97245aefb
